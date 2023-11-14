@@ -24,7 +24,10 @@ body {
 
 .u-textCenter {
   text-align: center;
+  flex-grow: 1;
 }
+
+
 
 .navContainer {
   padding: var(--s) var(--m);
