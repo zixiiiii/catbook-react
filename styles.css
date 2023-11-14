@@ -62,3 +62,7 @@ body {
   /* it is optional, for making this div centered in parent*/
   margin: 0 auto;
 }
+
+.flex{
+    flex-direction: column;
+}
