@@ -2,10 +2,27 @@
 
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,600");
 
+:root{
+    --white: #FFFFFF;
+    --neogreen: #00FF00;
+
+}
+
 body {
   font-family: "Open Sans", sans-serif;
 }
 
 .u-textCenter {
   text-align: center;
+}
+
+.navContainer {
+    color: var(--white);
+}
+
+.navTitle {
+    color: var(--neogreen);
+    font-size: 20px;
+    margin: 0;
+    font-weight: normal;
 }
