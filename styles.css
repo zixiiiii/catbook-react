@@ -42,7 +42,7 @@ body {
    max-width: 960px;
    padding: var(--m) var(--m);
    /* makes the container center */
-   /* margin: auto; */
+   margin: auto;
 
 
 }
